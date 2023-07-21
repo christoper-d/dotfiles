@@ -1,4 +1,4 @@
-# dotfiles
+# dotfiles | (o
 
 This file contains a list of my operating system, as well as the dependencies and utilities that I use in my daily work environment.
 
