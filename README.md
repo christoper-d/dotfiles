@@ -11,16 +11,16 @@ This file contains a list of my operating system, as well as the dependencies an
 
 - **Lenguajes de Programación:**
   - Python
-  - JavaScript (Node.js)
-  - Java (11)
+  - JavaScript *(Node.js)*
+  - Java *(11)*
   - HTML/CSS
 
 - **IDE's**
-  - **Visual Studio Code (VSCode)**
-  - **Neovim**
-  - **Apache NetBeans**
+  - Visual Studio Code *(VSCode)*
+  - Neovim
+  - Apache NetBeans
 
 - **Utilities**
-  - **NVM (node versión manager)**
-  - **LAMP (Linux-Apache-Mysql o Mariadb- PHP)**
-  - **Composer**
+  - **NVM** *(node versión manager)*
+  - **LAMP** *(Linux-Apache-Mysql o Mariadb- PHP)*
+  - Composer
