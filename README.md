@@ -24,3 +24,9 @@ This file contains a list of my operating system, as well as the dependencies an
   - **NVM** *(node versión manager)*
   - **LAMP** *(Linux-Apache-Mysql o Mariadb- PHP)*
   - Composer
+
+- **for**
+  - youtubemusic
+    -  ```sh
+        firefox --new-window "https://music.youtube.com/watch\?v\=Ryzp8fiX2WY\&list\=PLYU5nGWjFh2NrX_jByFNzakuztnU8mdVg"
+       ```
