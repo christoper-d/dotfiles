@@ -30,3 +30,7 @@ This file contains a list of my operating system, as well as the dependencies an
     -  ```sh
         firefox --new-window "https://music.youtube.com/watch\?v\=Ryzp8fiX2WY\&list\=PLYU5nGWjFh2NrX_jByFNzakuztnU8mdVg"
        ```
+  - Discord
+    -  ```sh
+        firefox --new-window "https://discord.com/channels/@me"
+       ```
