@@ -26,6 +26,8 @@ This file contains a list of my operating system, as well as the dependencies an
   - Composer
 
 - **for**
+  - vscode (Basic profile)
+    - https://vscode.dev/editor/profile/github/620a1bf2600f14f5a99fb3b9f7670f8e 
   - youtubemusic
     -  ```sh
         firefox --new-window "https://music.youtube.com/watch\?v\=Ryzp8fiX2WY\&list\=PLYU5nGWjFh2NrX_jByFNzakuztnU8mdVg"
