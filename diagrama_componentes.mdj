@@ -1,0 +1,216 @@
+{
+  "_type": "Project",
+  "name": "Diagrama de Componentes",
+  "ownedElements": [
+    {
+      "_type": "UMLComponentDiagram",
+      "name": "Diagrama de Componentes",
+      "ownedElements": [
+        {
+          "_type": "UMLComponent",
+          "name": "Gestión de Pedidos",
+          "x": 100,
+          "y": 100,
+          "width": 200,
+          "height": 100
+        },
+        {
+          "_type": "UMLComponent",
+          "name": "Gestión de Pagos",
+          "x": 100,
+          "y": 220,
+          "width": 200,
+          "height": 100
+        },
+        {
+          "_type": "UMLComponent",
+          "name": "Inventario y Stock",
+          "x": 100,
+          "y": 340,
+          "width": 200,
+          "height": 100
+        },
+        {
+          "_type": "UMLComponent",
+          "name": "Gestión de Clientes",
+          "x": 100,
+          "y": 460,
+          "width": 200,
+          "height": 100
+        },
+        {
+          "_type": "UMLComponent",
+          "name": "Reportes y Análisis",
+          "x": 350,
+          "y": 220,
+          "width": 200,
+          "height": 100
+        },
+        {
+          "_type": "UMLComponent",
+          "name": "Interfaz de Usuario Intuitiva",
+          "x": 350,
+          "y": 460,
+          "width": 200,
+          "height": 100
+        },
+        {
+          "_type": "UMLComponent",
+          "name": "Servidor Web",
+          "x": 600,
+          "y": 300,
+          "width": 200,
+          "height": 100
+        },
+        {
+          "_type": "UMLComponent",
+          "name": "Firewall/Middleware",
+          "x": 850,
+          "y": 300,
+          "width": 200,
+          "height": 100
+        },
+        {
+          "_type": "UMLComponent",
+          "name": "Base de Datos",
+          "x": 1100,
+          "y": 300,
+          "width": 200,
+          "height": 100
+        }
+      ],
+      "ownedLinks": [
+        {
+          "_type": "UMLDependency",
+          "source": {
+            "$ref": "_23_0_3_1_3b021aa_1477231061235_87707_145"
+          },
+          "target": {
+            "$ref": "_23_0_3_1_3b021aa_1477231046783_137578_136"
+          },
+          "name": "Solicita proceso"
+        },
+        {
+          "_type": "UMLDependency",
+          "source": {
+            "$ref": "_23_0_3_1_3b021aa_1477231084731_506303_163"
+          },
+          "target": {
+            "$ref": "_23_0_3_1_3b021aa_1477231046783_137578_136"
+          },
+          "name": "Solicita proceso"
+        },
+        {
+          "_type": "UMLDependency",
+          "source": {
+            "$ref": "_23_0_3_1_3b021aa_1477231100550_114850_181"
+          },
+          "target": {
+            "$ref": "_23_0_3_1_3b021aa_1477231046783_137578_136"
+          },
+          "name": "Solicita proceso"
+        },
+        {
+          "_type": "UMLDependency",
+          "source": {
+            "$ref": "_23_0_3_1_3b021aa_1477231112786_120691_199"
+          },
+          "target": {
+            "$ref": "_23_0_3_1_3b021aa_1477231046783_137578_136"
+          },
+          "name": "Solicita proceso"
+        },
+        {
+          "_type": "UMLDependency",
+          "source": {
+            "$ref": "_23_0_3_1_3b021aa_1477231127680_511291_217"
+          },
+          "target": {
+            "$ref": "_23_0_3_1_3b021aa_1477231046783_137578_136"
+          },
+          "name": "Solicita proceso"
+        },
+        {
+          "_type": "UMLDependency",
+          "source": {
+            "$ref": "_23_0_3_1_3b021aa_1477231151570_133643_253"
+          },
+          "target": {
+            "$ref": "_23_0_3_1_3b021aa_1477231046783_137578_136"
+          },
+          "name": "Solicita proceso"
+        },
+        {
+          "_type": "UMLDependency",
+          "source": {
+            "$ref": "_23_0_3_1_3b021aa_1477231046783_137578_136"
+          },
+          "target": {
+            "$ref": "_23_0_3_1_3b021aa_1477231194603_347329_317"
+          },
+          "name": "Protección"
+        },
+        {
+          "_type": "UMLDependency",
+          "source": {
+            "$ref": "_23_0_3_1_3b021aa_1477231194603_347329_317"
+          },
+          "target": {
+            "$ref": "_23_0_3_1_3b021aa_1477231221612_832370_371"
+          },
+          "name": "Consulta/Actualiza"
+        },
+        {
+          "_type": "UMLDependency",
+          "source": {
+            "$ref": "_23_0_3_1_3b021aa_1477231061235_87707_145"
+          },
+          "target": {
+            "$ref": "_23_0_3_1_3b021aa_1477231221612_832370_371"
+          },
+          "name": "Acceso datos"
+        },
+        {
+          "_type": "UMLDependency",
+          "source": {
+            "$ref": "_23_0_3_1_3b021aa_1477231084731_506303_163"
+          },
+          "target": {
+            "$ref": "_23_0_3_1_3b021aa_1477231221612_832370_371"
+          },
+          "name": "Acceso datos"
+        },
+        {
+          "_type": "UMLDependency",
+          "source": {
+            "$ref": "_23_0_3_1_3b021aa_1477231100550_114850_181"
+          },
+          "target": {
+            "$ref": "_23_0_3_1_3b021aa_1477231221612_832370_371"
+          },
+          "name": "Acceso datos"
+        },
+        {
+          "_type": "UMLDependency",
+          "source": {
+            "$ref": "_23_0_3_1_3b021aa_1477231112786_120691_199"
+          },
+          "target": {
+            "$ref": "_23_0_3_1_3b021aa_1477231221612_832370_371"
+          },
+          "name": "Acceso datos"
+        },
+        {
+          "_type": "UMLDependency",
+          "source": {
+            "$ref": "_23_0_3_1_3b021aa_1477231127680_511291_217"
+          },
+          "target": {
+            "$ref": "_23_0_3_1_3b021aa_1477231221612_832370_371"
+          },
+          "name": "Acceso datos"
+        }
+      ]
+    }
+  ]
+}
